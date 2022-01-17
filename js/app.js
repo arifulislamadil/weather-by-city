@@ -11,7 +11,6 @@ const searchTemperature = () => {
 
 const setInnerText = (id, text) => {
     document.getElementById(id).innerText = text;
-
 }
 
 const displayTemperature = temperature => {
